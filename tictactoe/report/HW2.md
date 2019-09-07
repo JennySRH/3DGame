@@ -107,7 +107,7 @@ Component: 组件是游戏中对象和行为的螺母和螺栓。它们是每个
 
 #### 描述下图中 table 对象（实体）的属性、table 的 Transform 的属性、 table 的部件
 
-![workwork](https://pmlpml.github.io/unity3d-learning/images/ch02/ch02-homework.png)
+![ch02-homework](assets/ch02-homework.png)
 
 table的对象是GameObject，第一个选择框是activeSelf 属性，第二个文本框是对象名称，第三个选择框为static属性。
 
@@ -402,6 +402,10 @@ public class PutAChess : MonoBehaviour {
 
 ![1567750812771](assets/1567750812771.png)
 
+
+
+![demo1](assets/demo1.gif)
+
 往年的同学都有做人工智能部分，我们也不妨来尝试一下。所谓的人工智能，有多智能就有多人工。对于本款井字棋，我们只是简单的让对手随便下棋，权当是休闲益智游戏。
 
 新增全局变量`ai`，用来记录当前游戏模式，然后对棋子的`OnMouseUp`事件进行修改，每次己方下完棋后，AI会接着下棋。
@@ -438,6 +442,8 @@ public class PutAChess : MonoBehaviour {
 ![1567752493771](assets/1567752493771.png)
 
 
+
+![demo2](assets/demo2.gif)
 
 ## 思考题【选作】
 
