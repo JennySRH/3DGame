@@ -14,7 +14,7 @@
 
 但是这样的游戏界面实在太过于单调，所以经过我的修改，最终游戏界面如下图所示，其中，水面还利用正弦函数增加了波浪效果。
 
-![1568999597147](assets/1568999597147.png)
+![1568999597147](Assets/1568999597147.png)
 
 ## 规则表
 
@@ -91,7 +91,7 @@ public interface SceneController
 
 我们实现`SceneController`接口，创建了`FirstController`，并挂载到一个空物体上，便于初始化加载。该场景控制器首先需要加载游戏中的资源，并进行各种初始化。在此之前，我们先要将游戏对象做成预制，便于我们的直接使用。
 
-![1568999677393](assets/1568999677393.png)
+![1568999677393](Assets/1568999677393.png)
 
 然后加载到场景中。
 
@@ -334,4 +334,4 @@ public class UserGUI : MonoBehaviour, IUserAction {
 
 实现效果如下所示：
 
-![final](assets/final.gif)
+![final](Assets/final.gif)
