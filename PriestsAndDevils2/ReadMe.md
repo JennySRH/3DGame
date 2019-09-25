@@ -4,7 +4,7 @@
 
 游戏视频<https://www.bilibili.com/video/av68091576>
 
-![final](assets/final-1569406294791.gif)
+![final](Assets/final-1569406294791.gif)
 
 在之前的牧师与恶魔的游戏制作中，我们使用`FirstController`来控制游戏中人物的动作，这样写出了的代码低内聚高耦合。在这里，我们对上一版的牧师与恶魔进行更新迭代，将动作从`FirstController`中分离出来，减少程序的耦合提高内聚性。
 
@@ -178,4 +178,4 @@ public class Action
 
 ```
 
-![final](assets/final-1569406277612.gif)
+![final](Assets/final-1569406277612.gif)
