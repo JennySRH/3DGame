@@ -1,6 +1,6 @@
 # Priests and Devils ——动作分离版
 
-完整工程文件在github
+完整工程文件在github<https://github.com/JennySRH/3DGame/tree/master/PriestsAndDevils2>
 
 游戏视频<https://www.bilibili.com/video/av68091576>
 
