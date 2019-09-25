@@ -61,6 +61,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\JOYSTICK.cs" />
+    <Compile Include="Assets\keyboard.cs" />
     <Compile Include="Assets\MoveLeft.cs" />
     <Compile Include="Assets\MoveTowards.cs" />
     <Compile Include="Assets\MoveUp.cs" />
