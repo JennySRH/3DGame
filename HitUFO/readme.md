@@ -305,4 +305,4 @@ public class Action : MonoBehaviour
 }
 ```
 
-![demo](assets/demo.gif)
+![demo](demo.gif)
