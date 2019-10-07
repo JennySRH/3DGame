@@ -1,5 +1,7 @@
 ## 打飞碟游戏
 
+游戏视频 <https://www.bilibili.com/video/av70514046/>
+
 打飞碟游戏共有3个round，整体难度是由飞碟的速度和飞碟出现的间隔体现的。
 
 本次鼠标打飞碟游戏的实现参考了前辈的博客<https://blog.csdn.net/x2_yt/article/details/66969242>
@@ -240,7 +242,7 @@ public class ScoreController
 用户点击事件和飞碟运动事件都在`Action`类中实现。
 
 ```c#
-using System.Collections;
+![demo](demo.gifusing System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -303,3 +305,4 @@ public class Action : MonoBehaviour
 }
 ```
 
+![demo](assets/demo.gif)
