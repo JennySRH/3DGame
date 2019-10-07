@@ -61,12 +61,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\JOYSTICK.cs" />
+    <Compile Include="Assets\Joystick.cs" />
     <Compile Include="Assets\keyboard.cs" />
     <Compile Include="Assets\MoveLeft.cs" />
     <Compile Include="Assets\MoveTowards.cs" />
     <Compile Include="Assets\MoveUp.cs" />
     <Compile Include="Assets\NewBehaviourScript.cs" />
+    <Compile Include="Assets\PickupMultiObjects.cs" />
+    <Compile Include="Assets\PickupObject.cs" />
     <Compile Include="Assets\rotate1.cs" />
     <Compile Include="Assets\round.cs" />
     <Compile Include="Assets\sunround.cs" />
