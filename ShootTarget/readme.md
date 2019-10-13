@@ -4,7 +4,9 @@
 
 游戏视频<<https://www.bilibili.com/video/av71160101/>>
 
-上下左右控制箭移动，空格键发射、
+游戏工程文件<https://github.com/JennySRH/3DGame/tree/master/ShootTarget>
+
+上下左右控制箭移动，空格键发射
 
 ### 靶对象
 
